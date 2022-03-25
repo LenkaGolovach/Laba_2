@@ -10,4 +10,7 @@ int main()
 	if (a > 0) {
 		cout << b + c;
 	}
+	else {
+
+	}
 }
