@@ -11,6 +11,7 @@ int main()
 		cout << b + c;
 	}
 	else {
-
+		cout << b * c;
 	}
+	return 0;
 }
