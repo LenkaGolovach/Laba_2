@@ -8,6 +8,6 @@ int main()
 	cout << "Enter values - \n";
 	cin >> a, b, c;
 	if (a > 0) {
-
+		cout << b + c;
 	}
 }
